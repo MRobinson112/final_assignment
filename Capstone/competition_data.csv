@@ -1,0 +1,133 @@
+athlete_id,date,competition,event,time,wind,round,season
+1,2025-04-04,Mets Outdoor Championship,200m,26.38,,Final,outdoor
+1,2025-05-03,Tom Farrell,200m,26.13,2.4,Final,outdoor
+2,2024-03-15,USF Bulls Alumni Invitational,100m,12.27,1.2,Final,outdoor
+2,2024-03-30,The Big Hurt,100m,12.46,0.0,Final,outdoor
+2,2024-03-30,The Big Hurt,200m,25.8,0.0,Final,outdoor
+2,2024-04-06,Mets Outdoor Championships,100m,12.53,-2.4,Final,outdoor
+2,2024-04-06,Mets Outdoor Championships,100m,13.01,-4.2,Prelim,outdoor
+2,2024-04-06,Mets Outdoor Championships,200m,27.14,-4.6,Final,outdoor
+2,2024-04-12,UCONN Northeast Challenge,100m,12.42,0.6,Final,outdoor
+2,2024-04-20,Mark Young Invitational,100m,12.55,1.2,Final,outdoor
+2,2024-04-20,Mark Young Invitational,200m,26.55,-0.3,Final,outdoor
+2,2025-03-29,The Big Hurt,100m,12.9,1.3,Final,outdoor
+2,2025-03-29,The Big Hurt,200m,26.59,2.2,Final,outdoor
+2,2025-04-04,Mets Outdoor Championship,100m,12.52,,Final,outdoor
+2,2025-04-04,Mets Outdoor Championship,100m,12.41,0.8,Prelim,outdoor
+2,2025-04-18,UConn Northeast Challenge,100m,12.43,-0.2,Final,outdoor
+2,2025-04-18,UConn Northeast Challenge,200m,26.56,0.4,Final,outdoor
+2,2025-05-03,Tom Farrell,100m,12.25,1.5,Final,outdoor
+2,2025-05-03,Tom Farrell,100m,12.16,4.3,Prelim,outdoor
+2,2025-05-15,2025 BIG EAST Championships,100m,12.19,1.8,Prelim,outdoor
+3,2023-05-06,Tom Farrell Classic,200m,25.78,,Final,outdoor
+3,2024-04-12,UCONN Northeast Challenge,200m,26.37,3.3,Final,outdoor
+3,2024-04-20,Mark Young Invitational,200m,26.39,0.1,Final,outdoor
+4,2023-04-01,The Big Hurt,100m,12.25,1.5,Final,outdoor
+4,2023-04-07,Temple Owls Invitational,100m,12.54,-0.5,Final,outdoor
+4,2023-04-14,UCONN Northeast Challenge,100m,12.25,3.0,Final,outdoor
+4,2023-05-06,Tom Farrell Classic,100m,12.16,,Final,outdoor
+4,2023-05-10,BIG EAST Championships,100m,12.25,1.0,Prelim,outdoor
+4,2024-03-15,USF Bulls Alumni Invitational,100m,11.92,3.0,Final,outdoor
+4,2024-04-05,Hurricane Alumni Invitational,100m,12.09,0.3,Final,outdoor
+4,2024-04-12,UCONN Northeast Challenge,200m,24.95,3.3,Final,outdoor
+4,2024-04-19,Virginia Challenge,100m,12.21,1.5,Prelim,outdoor
+4,2024-05-04,Tom Farrell,200m,24.81,1.6,Final,outdoor
+4,2024-05-09,BIG EAST Championships,100m,12.0,-0.4,Final,outdoor
+4,2024-05-09,BIG EAST Championships,100m,12.01,0.7,Prelim,outdoor
+4,2024-05-09,BIG EAST Championships,200m,25.15,0.1,Prelim,outdoor
+4,2025-03-21,USF Alumni Invitational,100m,12.2,1.6,Final,outdoor
+4,2025-03-21,USF Alumni Invitational,200m,24.96,2.3,Final,outdoor
+4,2025-04-04,Mets Outdoor Championship,100m,12.08,-0.4,Prelim,outdoor
+4,2025-04-04,Mets Outdoor Championship,100m,12.26,,Final,outdoor
+4,2025-04-18,UConn Northeast Challenge,100m,11.99,0.1,Final,outdoor
+4,2025-04-18,UConn Northeast Challenge,200m,25.13,-1.2,Final,outdoor
+4,2025-05-15,2025 BIG EAST Championships,100m,11.76,1.7,Final,outdoor
+4,2025-05-15,2025 BIG EAST Championships,100m,11.83,-0.5,Prelim,outdoor
+5,2023-03-17,USF Bulls Invitational,200m,25.14,1.9,Final,outdoor
+5,2023-03-25,Hurricane Collegiate Invitational,200m,24.63,2.5,Final,outdoor
+5,2023-04-20,Virginia Challenge,200m,25.29,0.2,Final,outdoor
+5,2023-05-06,Tom Farrell Classic,100m,12.52,,Final,outdoor
+5,2023-05-06,Tom Farrell Classic,200m,24.52,,Final,outdoor
+5,2023-05-10,BIG EAST Championships,200m,25.0,1.5,Final,outdoor
+5,2023-05-10,BIG EAST Championships,200m,24.42,-0.3,Prelim,outdoor
+5,2024-03-15,USF Bulls Alumni Invitational,200m,24.77,1.8,Final,outdoor
+5,2024-04-05,Hurricane Alumni Invitational,200m,24.61,-0.9,Final,outdoor
+5,2024-04-19,Virginia Challenge,200m,24.54,0.5,Final,outdoor
+5,2024-05-04,Tom Farrell,200m,24.43,1.6,Final,outdoor
+5,2024-05-09,BIG EAST Championships,200m,24.06,2.0,Final,outdoor
+5,2024-05-09,BIG EAST Championships,200m,24.42,-0.3,Prelim,outdoor
+5,2025-03-21,USF Alumni Invitational,200m,24.52,1.6,Final,outdoor
+5,2025-04-04,Mets Outdoor Championship,100m,12.54,,Final,outdoor
+5,2025-04-04,Mets Outdoor Championship,100m,12.45,-0.4,Prelim,outdoor
+5,2025-04-04,Mets Outdoor Championship,200m,23.92,,Final,outdoor
+5,2025-05-15,2025 BIG EAST Championships,200m,24.42,-0.2,Final,outdoor
+5,2025-05-15,2025 BIG EAST Championships,200m,23.98,1.1,Prelim,outdoor
+6,2023-03-17,USF Bulls Invitational,100m,11.91,1.6,Final,outdoor
+6,2023-03-17,USF Bulls Invitational,200m,24.91,2.0,Final,outdoor
+6,2023-03-25,Hurricane Collegiate Invitational,100m,11.88,3.5,Final,outdoor
+6,2023-03-25,Hurricane Collegiate Invitational,200m,25.37,2.4,Final,outdoor
+6,2023-04-07,Temple Owls Invitational,100m,12.24,-0.5,Final,outdoor
+6,2023-04-07,Temple Owls Invitational,200m,26.29,-1.9,Final,outdoor
+6,2023-04-14,UCONN Northeast Challenge,100m,12.18,1.4,Final,outdoor
+6,2023-04-14,UCONN Northeast Challenge,200m,24.43,3.8,Final,outdoor
+6,2023-04-22,Mark Young,100m,12.3,0.8,Final,outdoor
+6,2023-05-10,BIG EAST Championships,100m,12.19,2.1,Prelim,outdoor
+6,2023-05-10,BIG EAST Championships,100m,12.21,0.9,Final,outdoor
+6,2023-05-10,BIG EAST Championships,200m,25.46,-0.8,Prelim,outdoor
+6,2024-03-15,USF Bulls Alumni Invitational,100m,11.92,3.0,Final,outdoor
+6,2024-04-05,Hurricane Alumni Invitational,100m,11.93,0.3,Final,outdoor
+6,2024-04-12,UCONN Northeast Challenge,200m,24.57,-0.9,Final,outdoor
+6,2024-04-19,Virginia Challenge,100m,12.26,0.4,Prelim,outdoor
+6,2024-04-19,Virginia Challenge,200m,24.67,0.8,Final,outdoor
+6,2024-05-09,BIG EAST Championships,100m,11.96,1.0,Prelim,outdoor
+6,2024-05-09,BIG EAST Championships,100m,12.12,-0.4,Final,outdoor
+6,2024-05-09,BIG EAST Championships,200m,24.85,-0.3,Prelim,outdoor
+7,2023-04-01,The Big Hurt,200m,27.83,1.8,Final,outdoor
+7,2023-04-07,Temple Owls Invitational,100m,13.33,0.0,Final,outdoor
+7,2024-03-30,The Big Hurt,200m,27.31,0.0,Final,outdoor
+7,2024-04-06,Mets Outdoor Championships,200m,27.75,,Final,outdoor
+7,2024-05-04,Tom Farrell,200m,27.09,1.5,Final,outdoor
+7,2025-04-04,Mets Outdoor Championship,100m,13.19,0.1,Prelim,outdoor
+8,2025-04-04,Mets Outdoor Championship,100m,13.07,-0.4,Prelim,outdoor
+8,2025-04-18,UConn Northeast Challenge,100m,12.95,0.7,Final,outdoor
+9,2023-04-22,Mark Young,200m,26.13,1.0,Final,outdoor
+9,2023-05-06,Tom Farrell Classic,200m,25.97,,Final,outdoor
+9,2024-03-15,USF Bulls Alumni Invitational,200m,25.22,3.2,Final,outdoor
+9,2024-04-06,Mets Outdoor Championships,200m,26.09,-4.6,Final,outdoor
+9,2024-04-12,UCONN Northeast Challenge,200m,25.28,5.5,Final,outdoor
+9,2024-05-04,Tom Farrell,200m,25.13,0.9,Final,outdoor
+9,2025-03-21,USF Alumni Invitational,200m,25.05,1.9,Final,outdoor
+9,2025-03-29,The Big Hurt,200m,24.8,2.2,Final,outdoor
+9,2025-04-04,Mets Outdoor Championship,200m,24.45,,Final,outdoor
+9,2025-04-11,South Florida Invitational,200m,24.04,3.2,Final,outdoor
+9,2025-05-15,2025 BIG EAST Championships,200m,24.31,-0.5,Prelim,outdoor
+9,2025-05-15,2025 BIG EAST Championships,200m,24.36,-0.2,Final,outdoor
+10,2024-03-15,USF Bulls Alumni Invitational,100m,12.4,3.0,Final,outdoor
+10,2024-03-30,The Big Hurt,100m,12.57,0.0,Final,outdoor
+10,2024-03-30,The Big Hurt,200m,26.18,0.0,Final,outdoor
+10,2024-04-06,Mets Outdoor Championships,100m,13.07,-2.4,Final,outdoor
+10,2024-04-06,Mets Outdoor Championships,100m,12.87,-2.4,Prelim,outdoor
+10,2024-04-20,Mark Young Invitational,100m,12.54,1.2,Final,outdoor
+10,2024-04-20,Mark Young Invitational,200m,26.57,0.1,Final,outdoor
+10,2024-05-04,Tom Farrell,100m,12.36,1.0,Prelim,outdoor
+10,2024-05-09,BIG EAST Championships,100m,12.91,0.7,Prelim,outdoor
+10,2025-04-04,Mets Outdoor Championship,100m,12.58,,Final,outdoor
+10,2025-04-04,Mets Outdoor Championship,100m,12.45,-1.1,Prelim,outdoor
+10,2025-04-11,South Florida Invitational,100m,12.13,4.1,Final,outdoor
+10,2025-04-11,South Florida Invitational,200m,25.6,2.2,Final,outdoor
+10,2025-04-18,UConn Northeast Challenge,100m,12.19,0.1,Final,outdoor
+10,2025-04-18,UConn Northeast Challenge,200m,25.31,0.4,Final,outdoor
+10,2025-05-15,2025 BIG EAST Championships,100m,12.38,-0.5,Prelim,outdoor
+10,2025-05-15,2025 BIG EAST Championships,200m,25.39,0.8,Prelim,outdoor
+11,2023-03-17,USF Bulls Invitational,200m,24.79,1.7,Final,outdoor
+11,2023-03-25,Hurricane Collegiate Invitational,200m,24.72,2.5,Final,outdoor
+11,2023-04-22,Mark Young Invitational,200m,25.17,0.9,Final,outdoor
+11,2023-05-06,Tom Farrell Classic,100m,12.72,,Final,outdoor
+11,2023-05-06,Tom Farrell Classic,200m,25.28,,Final,outdoor
+11,2023-05-10,2023 BIG EAST Championships,200m,25.1,-0.5,Prelim,outdoor
+11,2024-04-05,Hurricane Alumni Invitational,200m,25.63,0.7,Final,outdoor
+11,2025-04-04,Mets Outdoor Championship,200m,24.8,,Final,outdoor
+12,2025-03-21,USF Alumni Invitational,200m,25.04,1.4,Final,outdoor
+12,2025-05-15,2025 BIG EAST Championships,200m,24.77,-0.5,Prelim,outdoor
+13,2025-03-21,USF Alumni Invitational,200m,25.64,2.5,Final,outdoor
+13,2025-05-15,2025 BIG EAST Championships,200m,24.93,0.9,Prelim,outdoor
